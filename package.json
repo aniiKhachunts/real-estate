@@ -4,9 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "gen:data": "node scripts/generate-properties.mjs",
+    "predev": "npm run gen:data",
+    "prebuild": "npm run gen:data",
     "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {

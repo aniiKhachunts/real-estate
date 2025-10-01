@@ -1,48 +1,56 @@
-import { useNavigate } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
-const AREAS = [
-    {
-        label: "Kentron",
-        img: "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1200&auto=format&fit=crop"
-    },
-    {
-        label: "Arabkir",
-        img: "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1200&auto=format&fit=crop"
-    },
-    {
-        label: "Davtashen",
-        img: "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1200&auto=format&fit=crop"
-    },
-    {
-        label: "Ajapnyak",
-        img: "https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?q=80&w=1200&auto=format&fit=crop"
-    },
-];
+type PopularArea = {
+    city: string;
+    listings: number;
+    img: string;
+};
 
 export default function PopularAreas() {
-    const nav = useNavigate();
-    const go = (city: string) => nav(`/listings?${new URLSearchParams({ city })}`);
+    const [areas, setAreas] = useState<PopularArea[]>([]);
+
+    useEffect(() => {
+        fetch("/data/popular-areas.json")
+            .then((r) => r.json())
+            .then((data: PopularArea[]) => setAreas(data))
+            .catch(() => setAreas([]));
+    }, []);
 
     return (
-        <section className="bg-slate-50">
-            <div className="mx-auto w-full max-w-[1200px] px-4 py-16">
-                <h2 className="text-2xl md:text-3xl font-bold text-slate-900">Popular areas</h2>
+        <section className="mx-auto max-w-7xl px-6">
+            <div className="flex items-end justify-between mb-4">
+                <h2 className="text-2xl font-semibold">Popular areas</h2>
+                {areas.length > 0 && (
+                    <div className="text-sm text-slate-500">Based on {areas.reduce((n,a)=>n+a.listings,0)} listings across top cities</div>
+                )}
+            </div>
 
-                <div className="mt-8 grid gap-6 grid-cols-2 md:grid-cols-4">
-                    {AREAS.map((a) => (
-                        <button
-                            key={a.label}
-                            onClick={() => go(a.label)}
-                            className="group relative aspect-[4/3] rounded-2xl overflow-hidden text-left"
-                            aria-label={`Search in ${a.label}`}
-                        >
-                            <img src={a.img} alt={a.label}
-                                 className="w-full h-full object-cover transition-transform group-hover:scale-105"/>
-                            <div className="absolute inset-0 bg-gradient-to-t from-black/55 to-black/10"/>
-                            <div className="absolute bottom-3 left-3 text-white font-medium drop-shadow">{a.label}</div>
-                        </button>
-                    ))}
-                </div>
+            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+                {areas.map((a) => (
+                    <Link
+                        key={a.city}
+                        to={`/listings?city=${encodeURIComponent(a.city)}`}
+                        className="relative rounded-2xl overflow-hidden shadow focus:outline-none focus:ring-2 focus:ring-brand-500"
+                        aria-label={`See listings in ${a.city}`}
+                    >
+                        <img
+                            src={a.img}
+                            alt={a.city}
+                            className="h-48 w-full object-cover"
+                            loading="lazy"
+                            onError={(e) => {
+                                (e.currentTarget as HTMLImageElement).src =
+                                    "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format";
+                            }}
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-black/0" />
+                        <div className="absolute bottom-3 left-3 text-white drop-shadow">
+                            <div className="font-medium">{a.city}</div>
+                            <div className="text-sm opacity-90">{a.listings} listings</div>
+                        </div>
+                    </Link>
+                ))}
             </div>
         </section>
     );

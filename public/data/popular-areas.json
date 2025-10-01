@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Sydney",
+    "listings": 13,
+    "img": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "San Francisco",
+    "listings": 11,
+    "img": "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "Istanbul",
+    "listings": 10,
+    "img": "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "Los Angeles",
+    "listings": 8,
+    "img": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "Madrid",
+    "listings": 7,
+    "img": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "Miami",
+    "listings": 6,
+    "img": "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "Rome",
+    "listings": 6,
+    "img": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
+  },
+  {
+    "city": "Toronto",
+    "listings": 6,
+    "img": "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+  }
+]

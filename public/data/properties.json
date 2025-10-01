@@ -1,2102 +1,2102 @@
 [
   {
-    "id": "toronto-liberty-village-house-1",
-    "title": "House in Liberty Village, Toronto",
-    "price": 1035376,
-    "currency": "CAD",
-    "type": "house",
-    "beds": 5,
-    "baths": 3,
-    "areaM2": 200,
-    "address": {
-      "city": "Toronto",
-      "area": "Liberty Village"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Liberty Village, Toronto. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 200 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-beverly-hills-apartment-2",
-    "title": "Apartment in Beverly Hills, Los Angeles",
-    "price": 950104,
+    "id": "miami-wynwood-apartment-1",
+    "title": "Apartment in Wynwood, Miami",
+    "price": 700241,
     "currency": "USD",
     "type": "apartment",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 62,
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 177,
     "address": {
-      "city": "Los Angeles",
-      "area": "Beverly Hills"
+      "city": "Miami",
+      "area": "Wynwood"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Wynwood, Miami. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 177 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "paris-montmartre-villa-2",
+    "title": "Villa in Montmartre, Paris",
+    "price": 1125323,
+    "currency": "EUR",
+    "type": "villa",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 129,
+    "address": {
+      "city": "Paris",
+      "area": "Montmartre"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Montmartre, Paris. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 129 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "rome-prati-apartment-3",
+    "title": "Apartment in Prati, Rome",
+    "price": 520058,
+    "currency": "EUR",
+    "type": "apartment",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 46,
+    "address": {
+      "city": "Rome",
+      "area": "Prati"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Prati, Rome. Bright, airy layout with 1 bedroom, 1 bathroom, and 46 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "dubai-dubai-marina-studio-4",
+    "title": "Studio in Dubai Marina, Dubai",
+    "price": 1440112,
+    "currency": "AED",
+    "type": "studio",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 82,
+    "address": {
+      "city": "Dubai",
+      "area": "Dubai Marina"
     },
     "images": [
       "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Dubai Marina, Dubai. Bright, airy layout with 1 bedroom, 1 bathroom, and 82 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-noe-valley-apartment-5",
+    "title": "Apartment in Noe Valley, San Francisco",
+    "price": 1050190,
+    "currency": "USD",
+    "type": "apartment",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 107,
+    "address": {
+      "city": "San Francisco",
+      "area": "Noe Valley"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Noe Valley, San Francisco. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 107 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-mission-house-6",
+    "title": "House in Mission, San Francisco",
+    "price": 1207617,
+    "currency": "USD",
+    "type": "house",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 104,
+    "address": {
+      "city": "San Francisco",
+      "area": "Mission"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Beverly Hills, Los Angeles. Bright, airy layout with 2 bedrooms, 1 bathroom, and 62 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Mission, San Francisco. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 104 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "rome-trastevere-house-3",
-    "title": "House in Trastevere, Rome",
-    "price": 598312,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 150,
-    "address": {
-      "city": "Rome",
-      "area": "Trastevere"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Trastevere, Rome. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 150 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "toronto-downtown-house-4",
-    "title": "House in Downtown, Toronto",
-    "price": 1035292,
-    "currency": "CAD",
-    "type": "house",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 170,
-    "address": {
-      "city": "Toronto",
-      "area": "Downtown"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Downtown, Toronto. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 170 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "sydney-surry-hills-house-5",
-    "title": "House in Surry Hills, Sydney",
-    "price": 1150111,
-    "currency": "AUD",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 89,
-    "address": {
-      "city": "Sydney",
-      "area": "Surry Hills"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Surry Hills, Sydney. Bright, airy layout with 2 bedrooms, 1 bathroom, and 89 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "singapore-river-valley-villa-6",
-    "title": "Villa in River Valley, Singapore",
-    "price": 1800257,
-    "currency": "SGD",
-    "type": "villa",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 150,
-    "address": {
-      "city": "Singapore",
-      "area": "River Valley"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in River Valley, Singapore. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 150 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-santa-monica-villa-7",
-    "title": "Villa in Santa Monica, Los Angeles",
-    "price": 1425074,
+    "id": "los-angeles-santa-monica-house-7",
+    "title": "House in Santa Monica, Los Angeles",
+    "price": 1092825,
     "currency": "USD",
-    "type": "villa",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 45,
+    "type": "house",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 193,
     "address": {
       "city": "Los Angeles",
       "area": "Santa Monica"
     },
     "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern villa located in Santa Monica, Los Angeles. Bright, airy layout with 1 bedroom, 1 bathroom, and 45 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Santa Monica, Los Angeles. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 193 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "toronto-downtown-studio-8",
-    "title": "Studio in Downtown, Toronto",
-    "price": 720306,
-    "currency": "CAD",
+    "id": "sydney-surry-hills-studio-8",
+    "title": "Studio in Surry Hills, Sydney",
+    "price": 800298,
+    "currency": "AUD",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 142,
+    "address": {
+      "city": "Sydney",
+      "area": "Surry Hills"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Surry Hills, Sydney. Bright, airy layout with 2 bedrooms, 1 bathroom, and 142 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-beyo-lu-apartment-9",
+    "title": "Apartment in Beyoğlu, Istanbul",
+    "price": 8500111,
+    "currency": "TRY",
+    "type": "apartment",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 61,
+    "address": {
+      "city": "Istanbul",
+      "area": "Beyoğlu"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Beyoğlu, Istanbul. Bright, airy layout with 2 bedrooms, 1 bathroom, and 61 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "tokyo-shibuya-studio-10",
+    "title": "Studio in Shibuya, Tokyo",
+    "price": 96000083,
+    "currency": "JPY",
+    "type": "studio",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 44,
+    "address": {
+      "city": "Tokyo",
+      "area": "Shibuya"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Shibuya, Tokyo. Bright, airy layout with 1 bedroom, 1 bathroom, and 44 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-newtown-apartment-11",
+    "title": "Apartment in Newtown, Sydney",
+    "price": 1000203,
+    "currency": "AUD",
+    "type": "apartment",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 91,
+    "address": {
+      "city": "Sydney",
+      "area": "Newtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Newtown, Sydney. Bright, airy layout with 2 bedrooms, 1 bathroom, and 91 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "paris-montmartre-house-12",
+    "title": "House in Montmartre, Paris",
+    "price": 862803,
+    "currency": "EUR",
+    "type": "house",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 169,
+    "address": {
+      "city": "Paris",
+      "area": "Montmartre"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Montmartre, Paris. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 169 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-nob-hill-studio-13",
+    "title": "Studio in Nob Hill, San Francisco",
+    "price": 840284,
+    "currency": "USD",
     "type": "studio",
     "beds": 3,
     "baths": 2,
-    "areaM2": 183,
+    "areaM2": 150,
     "address": {
-      "city": "Toronto",
-      "area": "Downtown"
+      "city": "San Francisco",
+      "area": "Nob Hill"
     },
     "images": [
       "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Downtown, Toronto. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 183 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "dubai-downtown-house-9",
-    "title": "House in Downtown, Dubai",
-    "price": 2070160,
-    "currency": "AED",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 88,
-    "address": {
-      "city": "Dubai",
-      "area": "Downtown"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Downtown, Dubai. Bright, airy layout with 2 bedrooms, 1 bathroom, and 88 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "tokyo-minato-house-10",
-    "title": "House in Minato, Tokyo",
-    "price": 138000199,
-    "currency": "JPY",
-    "type": "house",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 131,
-    "address": {
-      "city": "Tokyo",
-      "area": "Minato"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Minato, Tokyo. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 131 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern studio located in Nob Hill, San Francisco. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 150 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "dubai-jumeirah-house-11",
-    "title": "House in Jumeirah, Dubai",
-    "price": 2070106,
-    "currency": "AED",
+    "id": "toronto-yorkville-house-14",
+    "title": "House in Yorkville, Toronto",
+    "price": 1035234,
+    "currency": "CAD",
     "type": "house",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 52,
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 169,
     "address": {
-      "city": "Dubai",
-      "area": "Jumeirah"
+      "city": "Toronto",
+      "area": "Yorkville"
     },
     "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Jumeirah, Dubai. Bright, airy layout with 1 bedroom, 1 bathroom, and 52 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Yorkville, Toronto. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 169 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "new-york-brooklyn-apartment-12",
-    "title": "Apartment in Brooklyn, New York",
-    "price": 850095,
+    "id": "tokyo-meguro-house-15",
+    "title": "House in Meguro, Tokyo",
+    "price": 138000358,
+    "currency": "JPY",
+    "type": "house",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 190,
+    "address": {
+      "city": "Tokyo",
+      "area": "Meguro"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Meguro, Tokyo. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 190 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "dubai-dubai-marina-studio-16",
+    "title": "Studio in Dubai Marina, Dubai",
+    "price": 1440229,
+    "currency": "AED",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 184,
+    "address": {
+      "city": "Dubai",
+      "area": "Dubai Marina"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Dubai Marina, Dubai. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 184 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "new-york-brooklyn-villa-17",
+    "title": "Villa in Brooklyn, New York",
+    "price": 1275520,
     "currency": "USD",
-    "type": "apartment",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 53,
+    "type": "villa",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 204,
     "address": {
       "city": "New York",
       "area": "Brooklyn"
     },
     "images": [
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Brooklyn, New York. Bright, airy layout with 1 bedroom, 1 bathroom, and 53 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern villa located in Brooklyn, New York. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 204 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "amsterdam-jordaan-apartment-13",
-    "title": "Apartment in Jordaan, Amsterdam",
-    "price": 680080,
+    "id": "amsterdam-de-pijp-house-18",
+    "title": "House in De Pijp, Amsterdam",
+    "price": 782290,
     "currency": "EUR",
-    "type": "apartment",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 58,
+    "type": "house",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 140,
     "address": {
       "city": "Amsterdam",
-      "area": "Jordaan"
+      "area": "De Pijp"
     },
     "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Jordaan, Amsterdam. Bright, airy layout with 1 bedroom, 1 bathroom, and 58 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in De Pijp, Amsterdam. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 140 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "berlin-mitte-villa-14",
-    "title": "Villa in Mitte, Berlin",
-    "price": 900312,
-    "currency": "EUR",
-    "type": "villa",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 116,
+    "id": "sydney-newtown-house-19",
+    "title": "House in Newtown, Sydney",
+    "price": 1150294,
+    "currency": "AUD",
+    "type": "house",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 198,
     "address": {
-      "city": "Berlin",
-      "area": "Mitte"
+      "city": "Sydney",
+      "area": "Newtown"
     },
     "images": [
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Newtown, Sydney. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 198 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "dubai-downtown-villa-20",
+    "title": "Villa in Downtown, Dubai",
+    "price": 2700174,
+    "currency": "AED",
+    "type": "villa",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 72,
+    "address": {
+      "city": "Dubai",
+      "area": "Downtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Downtown, Dubai. Bright, airy layout with 2 bedrooms, 1 bathroom, and 72 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "madrid-chamber-villa-21",
+    "title": "Villa in Chamberí, Madrid",
+    "price": 825454,
+    "currency": "EUR",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 337,
+    "address": {
+      "city": "Madrid",
+      "area": "Chamberí"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern villa located in Mitte, Berlin. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 116 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern villa located in Chamberí, Madrid. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 337 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "paris-le-marais-studio-15",
-    "title": "Studio in Le Marais, Paris",
-    "price": 600126,
+    "id": "rome-monti-studio-22",
+    "title": "Studio in Monti, Rome",
+    "price": 416051,
     "currency": "EUR",
     "type": "studio",
     "beds": 1,
     "baths": 1,
-    "areaM2": 62,
-    "address": {
-      "city": "Paris",
-      "area": "Le Marais"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Le Marais, Paris. Bright, airy layout with 1 bedroom, 1 bathroom, and 62 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "toronto-yorkville-apartment-16",
-    "title": "Apartment in Yorkville, Toronto",
-    "price": 900214,
-    "currency": "CAD",
-    "type": "apartment",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 97,
-    "address": {
-      "city": "Toronto",
-      "area": "Yorkville"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Yorkville, Toronto. Bright, airy layout with 2 bedrooms, 1 bathroom, and 97 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-santa-monica-house-17",
-    "title": "House in Santa Monica, Los Angeles",
-    "price": 1092698,
-    "currency": "USD",
-    "type": "house",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 167,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Santa Monica"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Santa Monica, Los Angeles. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 167 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "singapore-orchard-apartment-18",
-    "title": "Apartment in Orchard, Singapore",
-    "price": 1200378,
-    "currency": "SGD",
-    "type": "apartment",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 178,
-    "address": {
-      "city": "Singapore",
-      "area": "Orchard"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Orchard, Singapore. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 178 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "rome-monti-villa-19",
-    "title": "Villa in Monti, Rome",
-    "price": 780275,
-    "currency": "EUR",
-    "type": "villa",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 109,
+    "areaM2": 38,
     "address": {
       "city": "Rome",
       "area": "Monti"
     },
     "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern villa located in Monti, Rome. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 109 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern studio located in Monti, Rome. Bright, airy layout with 1 bedroom, 1 bathroom, and 38 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "london-camden-villa-20",
-    "title": "Villa in Camden, London",
-    "price": 1200354,
-    "currency": "GBP",
-    "type": "villa",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 150,
-    "address": {
-      "city": "London",
-      "area": "Camden"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Camden, London. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 150 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-hollywood-house-21",
-    "title": "House in Hollywood, Los Angeles",
-    "price": 1092641,
-    "currency": "USD",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 83,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Hollywood"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Hollywood, Los Angeles. Bright, airy layout with 2 bedrooms, 1 bathroom, and 83 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "paris-le-marais-apartment-22",
-    "title": "Apartment in Le Marais, Paris",
-    "price": 750125,
+    "id": "rome-trastevere-apartment-23",
+    "title": "Apartment in Trastevere, Rome",
+    "price": 520222,
     "currency": "EUR",
     "type": "apartment",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 90,
-    "address": {
-      "city": "Paris",
-      "area": "Le Marais"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Le Marais, Paris. Bright, airy layout with 2 bedrooms, 1 bathroom, and 90 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "london-camden-studio-23",
-    "title": "Studio in Camden, London",
-    "price": 640119,
-    "currency": "GBP",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 91,
-    "address": {
-      "city": "London",
-      "area": "Camden"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Camden, London. Bright, airy layout with 2 bedrooms, 1 bathroom, and 91 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "miami-brickell-villa-24",
-    "title": "Villa in Brickell, Miami",
-    "price": 1050677,
-    "currency": "USD",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 331,
-    "address": {
-      "city": "Miami",
-      "area": "Brickell"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Brickell, Miami. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 331 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-oud-west-house-25",
-    "title": "House in Oud-West, Amsterdam",
-    "price": 782160,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 90,
-    "address": {
-      "city": "Amsterdam",
-      "area": "Oud-West"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Oud-West, Amsterdam. Bright, airy layout with 2 bedrooms, 1 bathroom, and 90 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-beverly-hills-house-26",
-    "title": "House in Beverly Hills, Los Angeles",
-    "price": 1092691,
-    "currency": "USD",
-    "type": "house",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 148,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Beverly Hills"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Beverly Hills, Los Angeles. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 148 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "london-kensington-villa-27",
-    "title": "Villa in Kensington, London",
-    "price": 1200675,
-    "currency": "GBP",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 406,
-    "address": {
-      "city": "London",
-      "area": "Kensington"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Kensington, London. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 406 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "tokyo-minato-house-28",
-    "title": "House in Minato, Tokyo",
-    "price": 138000106,
-    "currency": "JPY",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 96,
-    "address": {
-      "city": "Tokyo",
-      "area": "Minato"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Minato, Tokyo. Bright, airy layout with 2 bedrooms, 1 bathroom, and 96 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "rome-trastevere-house-29",
-    "title": "House in Trastevere, Rome",
-    "price": 598201,
-    "currency": "EUR",
-    "type": "house",
     "beds": 3,
     "baths": 2,
-    "areaM2": 121,
+    "areaM2": 132,
     "address": {
       "city": "Rome",
       "area": "Trastevere"
     },
     "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Trastevere, Rome. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 121 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "miami-wynwood-house-30",
-    "title": "House in Wynwood, Miami",
-    "price": 805122,
-    "currency": "USD",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 66,
-    "address": {
-      "city": "Miami",
-      "area": "Wynwood"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Wynwood, Miami. Bright, airy layout with 2 bedrooms, 1 bathroom, and 66 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "new-york-queens-apartment-31",
-    "title": "Apartment in Queens, New York",
-    "price": 850366,
-    "currency": "USD",
-    "type": "apartment",
-    "beds": 5,
-    "baths": 3,
-    "areaM2": 190,
-    "address": {
-      "city": "New York",
-      "area": "Queens"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Queens, New York. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 190 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-kreuzberg-apartment-32",
-    "title": "Apartment in Kreuzberg, Berlin",
-    "price": 600063,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 43,
-    "address": {
-      "city": "Berlin",
-      "area": "Kreuzberg"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Kreuzberg, Berlin. Bright, airy layout with 1 bedroom, 1 bathroom, and 43 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern apartment located in Trastevere, Rome. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 132 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "paris-montmartre-apartment-33",
-    "title": "Apartment in Montmartre, Paris",
-    "price": 750145,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 89,
-    "address": {
-      "city": "Paris",
-      "area": "Montmartre"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Montmartre, Paris. Bright, airy layout with 2 bedrooms, 1 bathroom, and 89 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "miami-brickell-studio-34",
-    "title": "Studio in Brickell, Miami",
-    "price": 560107,
-    "currency": "USD",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 58,
-    "address": {
-      "city": "Miami",
-      "area": "Brickell"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Brickell, Miami. Bright, airy layout with 1 bedroom, 1 bathroom, and 58 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "new-york-queens-house-35",
-    "title": "House in Queens, New York",
-    "price": 977766,
-    "currency": "USD",
-    "type": "house",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 166,
-    "address": {
-      "city": "New York",
-      "area": "Queens"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Queens, New York. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 166 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-mitte-studio-36",
-    "title": "Studio in Mitte, Berlin",
-    "price": 480067,
-    "currency": "EUR",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 50,
-    "address": {
-      "city": "Berlin",
-      "area": "Mitte"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Mitte, Berlin. Bright, airy layout with 1 bedroom, 1 bathroom, and 50 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "istanbul-kad-k-y-studio-37",
-    "title": "Studio in Kadıköy, Istanbul",
-    "price": 6800268,
-    "currency": "TRY",
-    "type": "studio",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 170,
-    "address": {
-      "city": "Istanbul",
-      "area": "Kadıköy"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Kadıköy, Istanbul. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 170 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-venice-villa-38",
-    "title": "Villa in Venice, Los Angeles",
-    "price": 1425405,
-    "currency": "USD",
-    "type": "villa",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 162,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Venice"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Venice, Los Angeles. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 162 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "toronto-downtown-villa-39",
-    "title": "Villa in Downtown, Toronto",
-    "price": 1350331,
-    "currency": "CAD",
-    "type": "villa",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 142,
-    "address": {
-      "city": "Toronto",
-      "area": "Downtown"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Downtown, Toronto. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 142 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "sydney-newtown-studio-40",
-    "title": "Studio in Newtown, Sydney",
-    "price": 800247,
-    "currency": "AUD",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 123,
-    "address": {
-      "city": "Sydney",
-      "area": "Newtown"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Newtown, Sydney. Bright, airy layout with 2 bedrooms, 1 bathroom, and 123 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "singapore-orchard-apartment-41",
-    "title": "Apartment in Orchard, Singapore",
-    "price": 1200157,
-    "currency": "SGD",
-    "type": "apartment",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 105,
-    "address": {
-      "city": "Singapore",
-      "area": "Orchard"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Orchard, Singapore. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 105 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-prenzlauer-berg-house-42",
-    "title": "House in Prenzlauer Berg, Berlin",
-    "price": 690171,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 88,
-    "address": {
-      "city": "Berlin",
-      "area": "Prenzlauer Berg"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Prenzlauer Berg, Berlin. Bright, airy layout with 2 bedrooms, 1 bathroom, and 88 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-chamber-studio-43",
-    "title": "Studio in Chamberí, Madrid",
-    "price": 440210,
-    "currency": "EUR",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 117,
-    "address": {
-      "city": "Madrid",
-      "area": "Chamberí"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Chamberí, Madrid. Bright, airy layout with 2 bedrooms, 1 bathroom, and 117 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "sydney-newtown-house-44",
-    "title": "House in Newtown, Sydney",
-    "price": 1150225,
-    "currency": "AUD",
-    "type": "house",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 124,
-    "address": {
-      "city": "Sydney",
-      "area": "Newtown"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Newtown, Sydney. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 124 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-beverly-hills-studio-45",
-    "title": "Studio in Beverly Hills, Los Angeles",
-    "price": 760304,
-    "currency": "USD",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 140,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Beverly Hills"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Beverly Hills, Los Angeles. Bright, airy layout with 2 bedrooms, 1 bathroom, and 140 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-oud-west-apartment-46",
-    "title": "Apartment in Oud-West, Amsterdam",
-    "price": 680329,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 151,
-    "address": {
-      "city": "Amsterdam",
-      "area": "Oud-West"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Oud-West, Amsterdam. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 151 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-beverly-hills-villa-47",
-    "title": "Villa in Beverly Hills, Los Angeles",
-    "price": 1425527,
-    "currency": "USD",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 288,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Beverly Hills"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Beverly Hills, Los Angeles. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 288 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-jordaan-house-48",
-    "title": "House in Jordaan, Amsterdam",
-    "price": 782075,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 49,
-    "address": {
-      "city": "Amsterdam",
-      "area": "Jordaan"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Jordaan, Amsterdam. Bright, airy layout with 1 bedroom, 1 bathroom, and 49 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-venice-studio-49",
-    "title": "Studio in Venice, Los Angeles",
-    "price": 760384,
-    "currency": "USD",
-    "type": "studio",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 196,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Venice"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Venice, Los Angeles. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 196 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "rome-prati-studio-50",
-    "title": "Studio in Prati, Rome",
-    "price": 416146,
-    "currency": "EUR",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 124,
-    "address": {
-      "city": "Rome",
-      "area": "Prati"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Prati, Rome. Bright, airy layout with 2 bedrooms, 1 bathroom, and 124 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "london-islington-villa-51",
-    "title": "Villa in Islington, London",
-    "price": 1200577,
-    "currency": "GBP",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 318,
-    "address": {
-      "city": "London",
-      "area": "Islington"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Islington, London. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 318 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-mitte-studio-52",
-    "title": "Studio in Mitte, Berlin",
-    "price": 480098,
-    "currency": "EUR",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 49,
-    "address": {
-      "city": "Berlin",
-      "area": "Mitte"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Mitte, Berlin. Bright, airy layout with 1 bedroom, 1 bathroom, and 49 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "tokyo-minato-apartment-53",
-    "title": "Apartment in Minato, Tokyo",
-    "price": 120000174,
-    "currency": "JPY",
-    "type": "apartment",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 137,
-    "address": {
-      "city": "Tokyo",
-      "area": "Minato"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Minato, Tokyo. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 137 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "new-york-queens-villa-54",
-    "title": "Villa in Queens, New York",
-    "price": 1275880,
-    "currency": "USD",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 397,
-    "address": {
-      "city": "New York",
-      "area": "Queens"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Queens, New York. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 397 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-kreuzberg-villa-55",
-    "title": "Villa in Kreuzberg, Berlin",
-    "price": 900434,
-    "currency": "EUR",
-    "type": "villa",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 164,
-    "address": {
-      "city": "Berlin",
-      "area": "Kreuzberg"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Kreuzberg, Berlin. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 164 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-chamber-villa-56",
-    "title": "Villa in Chamberí, Madrid",
-    "price": 825715,
+    "id": "amsterdam-de-pijp-villa-24",
+    "title": "Villa in De Pijp, Amsterdam",
+    "price": 1020609,
     "currency": "EUR",
     "type": "villa",
     "beds": 6,
     "baths": 4,
-    "areaM2": 379,
-    "address": {
-      "city": "Madrid",
-      "area": "Chamberí"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Chamberí, Madrid. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 379 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-de-pijp-apartment-57",
-    "title": "Apartment in De Pijp, Amsterdam",
-    "price": 680227,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 109,
+    "areaM2": 348,
     "address": {
       "city": "Amsterdam",
       "area": "De Pijp"
     },
     "images": [
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in De Pijp, Amsterdam. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 109 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern villa located in De Pijp, Amsterdam. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 348 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "rome-prati-apartment-58",
-    "title": "Apartment in Prati, Rome",
-    "price": 520084,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 74,
-    "address": {
-      "city": "Rome",
-      "area": "Prati"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Prati, Rome. Bright, airy layout with 2 bedrooms, 1 bathroom, and 74 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-jordaan-house-59",
-    "title": "House in Jordaan, Amsterdam",
-    "price": 782192,
+    "id": "amsterdam-de-pijp-house-25",
+    "title": "House in De Pijp, Amsterdam",
+    "price": 782084,
     "currency": "EUR",
     "type": "house",
-    "beds": 2,
+    "beds": 1,
     "baths": 1,
-    "areaM2": 93,
+    "areaM2": 59,
     "address": {
       "city": "Amsterdam",
-      "area": "Jordaan"
+      "area": "De Pijp"
     },
     "images": [
       "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Jordaan, Amsterdam. Bright, airy layout with 2 bedrooms, 1 bathroom, and 93 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "sydney-bondi-apartment-60",
-    "title": "Apartment in Bondi, Sydney",
-    "price": 1000063,
-    "currency": "AUD",
-    "type": "apartment",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 40,
-    "address": {
-      "city": "Sydney",
-      "area": "Bondi"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Bondi, Sydney. Bright, airy layout with 1 bedroom, 1 bathroom, and 40 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-mitte-villa-61",
-    "title": "Villa in Mitte, Berlin",
-    "price": 900511,
-    "currency": "EUR",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 232,
-    "address": {
-      "city": "Berlin",
-      "area": "Mitte"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Mitte, Berlin. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 232 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "istanbul-kad-k-y-apartment-62",
-    "title": "Apartment in Kadıköy, Istanbul",
-    "price": 8500070,
-    "currency": "TRY",
-    "type": "apartment",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 37,
-    "address": {
-      "city": "Istanbul",
-      "area": "Kadıköy"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Kadıköy, Istanbul. Bright, airy layout with 1 bedroom, 1 bathroom, and 37 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-kreuzberg-villa-63",
-    "title": "Villa in Kreuzberg, Berlin",
-    "price": 900605,
-    "currency": "EUR",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 389,
-    "address": {
-      "city": "Berlin",
-      "area": "Kreuzberg"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Kreuzberg, Berlin. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 389 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "san-francisco-soma-house-64",
-    "title": "House in SoMa, San Francisco",
-    "price": 1207744,
-    "currency": "USD",
-    "type": "house",
-    "beds": 5,
-    "baths": 3,
-    "areaM2": 182,
-    "address": {
-      "city": "San Francisco",
-      "area": "SoMa"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in SoMa, San Francisco. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 182 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "toronto-liberty-village-house-65",
-    "title": "House in Liberty Village, Toronto",
-    "price": 1035220,
-    "currency": "CAD",
-    "type": "house",
-    "beds": 5,
-    "baths": 3,
-    "areaM2": 191,
-    "address": {
-      "city": "Toronto",
-      "area": "Liberty Village"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Liberty Village, Toronto. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 191 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "miami-brickell-studio-66",
-    "title": "Studio in Brickell, Miami",
-    "price": 560152,
-    "currency": "USD",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 99,
-    "address": {
-      "city": "Miami",
-      "area": "Brickell"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Brickell, Miami. Bright, airy layout with 2 bedrooms, 1 bathroom, and 99 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-chamber-house-67",
-    "title": "House in Chamberí, Madrid",
-    "price": 632716,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 5,
-    "baths": 3,
-    "areaM2": 191,
-    "address": {
-      "city": "Madrid",
-      "area": "Chamberí"
-    },
-    "images": [
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Chamberí, Madrid. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 191 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "dubai-dubai-marina-villa-68",
-    "title": "Villa in Dubai Marina, Dubai",
-    "price": 2700845,
-    "currency": "AED",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 350,
-    "address": {
-      "city": "Dubai",
-      "area": "Dubai Marina"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Dubai Marina, Dubai. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 350 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-retiro-apartment-69",
-    "title": "Apartment in Retiro, Madrid",
-    "price": 550398,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 5,
-    "baths": 3,
-    "areaM2": 188,
-    "address": {
-      "city": "Madrid",
-      "area": "Retiro"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Retiro, Madrid. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 188 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in De Pijp, Amsterdam. Bright, airy layout with 1 bedroom, 1 bathroom, and 59 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "los-angeles-santa-monica-studio-70",
-    "title": "Studio in Santa Monica, Los Angeles",
-    "price": 760076,
+    "id": "new-york-soho-house-26",
+    "title": "House in SoHo, New York",
+    "price": 977656,
     "currency": "USD",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 50,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Santa Monica"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Santa Monica, Los Angeles. Bright, airy layout with 1 bedroom, 1 bathroom, and 50 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "miami-south-beach-studio-71",
-    "title": "Studio in South Beach, Miami",
-    "price": 560179,
-    "currency": "USD",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 124,
-    "address": {
-      "city": "Miami",
-      "area": "South Beach"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in South Beach, Miami. Bright, airy layout with 2 bedrooms, 1 bathroom, and 124 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "rome-prati-house-72",
-    "title": "House in Prati, Rome",
-    "price": 598087,
-    "currency": "EUR",
     "type": "house",
     "beds": 2,
     "baths": 1,
     "areaM2": 75,
     "address": {
-      "city": "Rome",
-      "area": "Prati"
+      "city": "New York",
+      "area": "SoHo"
     },
     "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Prati, Rome. Bright, airy layout with 2 bedrooms, 1 bathroom, and 75 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in SoHo, New York. Bright, airy layout with 2 bedrooms, 1 bathroom, and 75 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "sydney-surry-hills-apartment-73",
-    "title": "Apartment in Surry Hills, Sydney",
-    "price": 1000388,
-    "currency": "AUD",
-    "type": "apartment",
-    "beds": 4,
+    "id": "london-camden-house-27",
+    "title": "House in Camden, London",
+    "price": 920267,
+    "currency": "GBP",
+    "type": "house",
+    "beds": 5,
     "baths": 3,
-    "areaM2": 179,
+    "areaM2": 190,
+    "address": {
+      "city": "London",
+      "area": "Camden"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Camden, London. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 190 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "toronto-liberty-village-studio-28",
+    "title": "Studio in Liberty Village, Toronto",
+    "price": 720355,
+    "currency": "CAD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 163,
+    "address": {
+      "city": "Toronto",
+      "area": "Liberty Village"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Liberty Village, Toronto. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 163 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "singapore-orchard-studio-29",
+    "title": "Studio in Orchard, Singapore",
+    "price": 960213,
+    "currency": "SGD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 168,
+    "address": {
+      "city": "Singapore",
+      "area": "Orchard"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Orchard, Singapore. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 168 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-soma-house-30",
+    "title": "House in SoMa, San Francisco",
+    "price": 1207882,
+    "currency": "USD",
+    "type": "house",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 192,
+    "address": {
+      "city": "San Francisco",
+      "area": "SoMa"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in SoMa, San Francisco. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 192 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-surry-hills-villa-31",
+    "title": "Villa in Surry Hills, Sydney",
+    "price": 1500332,
+    "currency": "AUD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 232,
     "address": {
       "city": "Sydney",
       "area": "Surry Hills"
     },
     "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Surry Hills, Sydney. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 179 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern villa located in Surry Hills, Sydney. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 232 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "paris-latin-quarter-villa-74",
-    "title": "Villa in Latin Quarter, Paris",
-    "price": 1125067,
-    "currency": "EUR",
-    "type": "villa",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 40,
-    "address": {
-      "city": "Paris",
-      "area": "Latin Quarter"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Latin Quarter, Paris. Bright, airy layout with 1 bedroom, 1 bathroom, and 40 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "sydney-bondi-villa-75",
-    "title": "Villa in Bondi, Sydney",
-    "price": 1500599,
-    "currency": "AUD",
+    "id": "miami-wynwood-villa-32",
+    "title": "Villa in Wynwood, Miami",
+    "price": 1050495,
+    "currency": "USD",
     "type": "villa",
     "beds": 6,
     "baths": 4,
-    "areaM2": 325,
+    "areaM2": 296,
+    "address": {
+      "city": "Miami",
+      "area": "Wynwood"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Wynwood, Miami. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 296 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-bondi-villa-33",
+    "title": "Villa in Bondi, Sydney",
+    "price": 1500281,
+    "currency": "AUD",
+    "type": "villa",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 108,
     "address": {
       "city": "Sydney",
       "area": "Bondi"
     },
     "images": [
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Bondi, Sydney. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 108 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-surry-hills-villa-34",
+    "title": "Villa in Surry Hills, Sydney",
+    "price": 1500585,
+    "currency": "AUD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 278,
+    "address": {
+      "city": "Sydney",
+      "area": "Surry Hills"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Surry Hills, Sydney. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 278 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-nob-hill-house-35",
+    "title": "House in Nob Hill, San Francisco",
+    "price": 1207619,
+    "currency": "USD",
+    "type": "house",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 85,
+    "address": {
+      "city": "San Francisco",
+      "area": "Nob Hill"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Nob Hill, San Francisco. Bright, airy layout with 2 bedrooms, 1 bathroom, and 85 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-newtown-villa-36",
+    "title": "Villa in Newtown, Sydney",
+    "price": 1500585,
+    "currency": "AUD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 282,
+    "address": {
+      "city": "Sydney",
+      "area": "Newtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Newtown, Sydney. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 282 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "amsterdam-jordaan-apartment-37",
+    "title": "Apartment in Jordaan, Amsterdam",
+    "price": 680158,
+    "currency": "EUR",
+    "type": "apartment",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 132,
+    "address": {
+      "city": "Amsterdam",
+      "area": "Jordaan"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern villa located in Bondi, Sydney. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 325 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern apartment located in Jordaan, Amsterdam. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 132 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "san-francisco-noe-valley-studio-76",
-    "title": "Studio in Noe Valley, San Francisco",
-    "price": 840326,
+    "id": "los-angeles-santa-monica-villa-38",
+    "title": "Villa in Santa Monica, Los Angeles",
+    "price": 1425408,
     "currency": "USD",
-    "type": "studio",
-    "beds": 2,
-    "baths": 1,
-    "areaM2": 149,
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 236,
     "address": {
-      "city": "San Francisco",
-      "area": "Noe Valley"
+      "city": "Los Angeles",
+      "area": "Santa Monica"
     },
     "images": [
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern studio located in Noe Valley, San Francisco. Bright, airy layout with 2 bedrooms, 1 bathroom, and 149 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern villa located in Santa Monica, Los Angeles. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 236 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "amsterdam-de-pijp-studio-77",
-    "title": "Studio in De Pijp, Amsterdam",
-    "price": 544095,
+    "id": "berlin-prenzlauer-berg-house-39",
+    "title": "House in Prenzlauer Berg, Berlin",
+    "price": 690199,
     "currency": "EUR",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 57,
+    "type": "house",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 147,
     "address": {
-      "city": "Amsterdam",
-      "area": "De Pijp"
+      "city": "Berlin",
+      "area": "Prenzlauer Berg"
     },
     "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern studio located in De Pijp, Amsterdam. Bright, airy layout with 1 bedroom, 1 bathroom, and 57 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Prenzlauer Berg, Berlin. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 147 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "paris-le-marais-studio-78",
-    "title": "Studio in Le Marais, Paris",
-    "price": 600350,
-    "currency": "EUR",
+    "id": "new-york-soho-studio-40",
+    "title": "Studio in SoHo, New York",
+    "price": 680379,
+    "currency": "USD",
     "type": "studio",
     "beds": 3,
     "baths": 2,
-    "areaM2": 171,
+    "areaM2": 180,
     "address": {
-      "city": "Paris",
-      "area": "Le Marais"
+      "city": "New York",
+      "area": "SoHo"
     },
     "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern studio located in Le Marais, Paris. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 171 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern studio located in SoHo, New York. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 180 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "toronto-yorkville-house-79",
-    "title": "House in Yorkville, Toronto",
-    "price": 1035096,
-    "currency": "CAD",
+    "id": "san-francisco-soma-villa-41",
+    "title": "Villa in SoMa, San Francisco",
+    "price": 1575849,
+    "currency": "USD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 399,
+    "address": {
+      "city": "San Francisco",
+      "area": "SoMa"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in SoMa, San Francisco. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 399 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "dubai-downtown-studio-42",
+    "title": "Studio in Downtown, Dubai",
+    "price": 1440144,
+    "currency": "AED",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 108,
+    "address": {
+      "city": "Dubai",
+      "area": "Downtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Downtown, Dubai. Bright, airy layout with 2 bedrooms, 1 bathroom, and 108 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-soma-studio-43",
+    "title": "Studio in SoMa, San Francisco",
+    "price": 840206,
+    "currency": "USD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 164,
+    "address": {
+      "city": "San Francisco",
+      "area": "SoMa"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in SoMa, San Francisco. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 164 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "madrid-salamanca-house-44",
+    "title": "House in Salamanca, Madrid",
+    "price": 632666,
+    "currency": "EUR",
     "type": "house",
     "beds": 2,
     "baths": 1,
-    "areaM2": 60,
+    "areaM2": 91,
     "address": {
-      "city": "Toronto",
-      "area": "Yorkville"
+      "city": "Madrid",
+      "area": "Salamanca"
     },
     "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Yorkville, Toronto. Bright, airy layout with 2 bedrooms, 1 bathroom, and 60 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Salamanca, Madrid. Bright, airy layout with 2 bedrooms, 1 bathroom, and 91 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "miami-brickell-studio-80",
-    "title": "Studio in Brickell, Miami",
-    "price": 560052,
+    "id": "london-camden-house-45",
+    "title": "House in Camden, London",
+    "price": 920365,
+    "currency": "GBP",
+    "type": "house",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 195,
+    "address": {
+      "city": "London",
+      "area": "Camden"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Camden, London. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 195 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "dubai-downtown-house-46",
+    "title": "House in Downtown, Dubai",
+    "price": 2070251,
+    "currency": "AED",
+    "type": "house",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 170,
+    "address": {
+      "city": "Dubai",
+      "area": "Downtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Downtown, Dubai. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 170 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "miami-brickell-villa-47",
+    "title": "Villa in Brickell, Miami",
+    "price": 1050756,
     "currency": "USD",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 41,
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 404,
     "address": {
       "city": "Miami",
       "area": "Brickell"
     },
     "images": [
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Brickell, Miami. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 404 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-kad-k-y-house-48",
+    "title": "House in Kadıköy, Istanbul",
+    "price": 9775280,
+    "currency": "TRY",
+    "type": "house",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 173,
+    "address": {
+      "city": "Istanbul",
+      "area": "Kadıköy"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern studio located in Brickell, Miami. Bright, airy layout with 1 bedroom, 1 bathroom, and 41 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Kadıköy, Istanbul. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 173 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "dubai-dubai-marina-house-81",
-    "title": "House in Dubai Marina, Dubai",
-    "price": 2070213,
-    "currency": "AED",
+    "id": "rome-prati-studio-49",
+    "title": "Studio in Prati, Rome",
+    "price": 416086,
+    "currency": "EUR",
+    "type": "studio",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 51,
+    "address": {
+      "city": "Rome",
+      "area": "Prati"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Prati, Rome. Bright, airy layout with 1 bedroom, 1 bathroom, and 51 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-nob-hill-villa-50",
+    "title": "Villa in Nob Hill, San Francisco",
+    "price": 1575897,
+    "currency": "USD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 412,
+    "address": {
+      "city": "San Francisco",
+      "area": "Nob Hill"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Nob Hill, San Francisco. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 412 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-be-ikta-studio-51",
+    "title": "Studio in Beşiktaş, Istanbul",
+    "price": 6800200,
+    "currency": "TRY",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 151,
+    "address": {
+      "city": "Istanbul",
+      "area": "Beşiktaş"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Beşiktaş, Istanbul. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 151 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "rome-trastevere-studio-52",
+    "title": "Studio in Trastevere, Rome",
+    "price": 416165,
+    "currency": "EUR",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 113,
+    "address": {
+      "city": "Rome",
+      "area": "Trastevere"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Trastevere, Rome. Bright, airy layout with 2 bedrooms, 1 bathroom, and 113 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-mission-villa-53",
+    "title": "Villa in Mission, San Francisco",
+    "price": 1575312,
+    "currency": "USD",
+    "type": "villa",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 194,
+    "address": {
+      "city": "San Francisco",
+      "area": "Mission"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Mission, San Francisco. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 194 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-be-ikta-house-54",
+    "title": "House in Beşiktaş, Istanbul",
+    "price": 9775219,
+    "currency": "TRY",
     "type": "house",
     "beds": 3,
     "baths": 2,
-    "areaM2": 120,
+    "areaM2": 111,
     "address": {
-      "city": "Dubai",
-      "area": "Dubai Marina"
+      "city": "Istanbul",
+      "area": "Beşiktaş"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Beşiktaş, Istanbul. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 111 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "berlin-prenzlauer-berg-apartment-55",
+    "title": "Apartment in Prenzlauer Berg, Berlin",
+    "price": 600107,
+    "currency": "EUR",
+    "type": "apartment",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 75,
+    "address": {
+      "city": "Berlin",
+      "area": "Prenzlauer Berg"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Prenzlauer Berg, Berlin. Bright, airy layout with 2 bedrooms, 1 bathroom, and 75 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "toronto-liberty-village-house-56",
+    "title": "House in Liberty Village, Toronto",
+    "price": 1035062,
+    "currency": "CAD",
+    "type": "house",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 53,
+    "address": {
+      "city": "Toronto",
+      "area": "Liberty Village"
     },
     "images": [
       "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Dubai Marina, Dubai. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 120 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Liberty Village, Toronto. Bright, airy layout with 1 bedroom, 1 bathroom, and 53 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "amsterdam-de-pijp-studio-82",
-    "title": "Studio in De Pijp, Amsterdam",
-    "price": 544116,
+    "id": "istanbul-kad-k-y-house-57",
+    "title": "House in Kadıköy, Istanbul",
+    "price": 9775065,
+    "currency": "TRY",
+    "type": "house",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 35,
+    "address": {
+      "city": "Istanbul",
+      "area": "Kadıköy"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Kadıköy, Istanbul. Bright, airy layout with 1 bedroom, 1 bathroom, and 35 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "paris-latin-quarter-apartment-58",
+    "title": "Apartment in Latin Quarter, Paris",
+    "price": 750263,
+    "currency": "EUR",
+    "type": "apartment",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 148,
+    "address": {
+      "city": "Paris",
+      "area": "Latin Quarter"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Latin Quarter, Paris. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 148 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "london-shoreditch-studio-59",
+    "title": "Studio in Shoreditch, London",
+    "price": 640240,
+    "currency": "GBP",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 134,
+    "address": {
+      "city": "London",
+      "area": "Shoreditch"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Shoreditch, London. Bright, airy layout with 2 bedrooms, 1 bathroom, and 134 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "toronto-liberty-village-studio-60",
+    "title": "Studio in Liberty Village, Toronto",
+    "price": 720195,
+    "currency": "CAD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 163,
+    "address": {
+      "city": "Toronto",
+      "area": "Liberty Village"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Liberty Village, Toronto. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 163 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-kad-k-y-villa-61",
+    "title": "Villa in Kadıköy, Istanbul",
+    "price": 12750360,
+    "currency": "TRY",
+    "type": "villa",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 208,
+    "address": {
+      "city": "Istanbul",
+      "area": "Kadıköy"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Kadıköy, Istanbul. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 208 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "new-york-manhattan-villa-62",
+    "title": "Villa in Manhattan, New York",
+    "price": 1275125,
+    "currency": "USD",
+    "type": "villa",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 49,
+    "address": {
+      "city": "New York",
+      "area": "Manhattan"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Manhattan, New York. Bright, airy layout with 1 bedroom, 1 bathroom, and 49 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "rome-trastevere-villa-63",
+    "title": "Villa in Trastevere, Rome",
+    "price": 780470,
+    "currency": "EUR",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 237,
+    "address": {
+      "city": "Rome",
+      "area": "Trastevere"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Trastevere, Rome. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 237 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "paris-montmartre-apartment-64",
+    "title": "Apartment in Montmartre, Paris",
+    "price": 750285,
+    "currency": "EUR",
+    "type": "apartment",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 196,
+    "address": {
+      "city": "Paris",
+      "area": "Montmartre"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Montmartre, Paris. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 196 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "berlin-prenzlauer-berg-studio-65",
+    "title": "Studio in Prenzlauer Berg, Berlin",
+    "price": 480089,
     "currency": "EUR",
     "type": "studio",
     "beds": 1,
     "baths": 1,
     "areaM2": 65,
     "address": {
-      "city": "Amsterdam",
-      "area": "De Pijp"
+      "city": "Berlin",
+      "area": "Prenzlauer Berg"
     },
     "images": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern studio located in De Pijp, Amsterdam. Bright, airy layout with 1 bedroom, 1 bathroom, and 65 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern studio located in Prenzlauer Berg, Berlin. Bright, airy layout with 1 bedroom, 1 bathroom, and 65 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "berlin-kreuzberg-house-83",
-    "title": "House in Kreuzberg, Berlin",
-    "price": 690076,
+    "id": "sydney-surry-hills-house-66",
+    "title": "House in Surry Hills, Sydney",
+    "price": 1150114,
+    "currency": "AUD",
+    "type": "house",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 62,
+    "address": {
+      "city": "Sydney",
+      "area": "Surry Hills"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Surry Hills, Sydney. Bright, airy layout with 2 bedrooms, 1 bathroom, and 62 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "los-angeles-venice-villa-67",
+    "title": "Villa in Venice, Los Angeles",
+    "price": 1425721,
+    "currency": "USD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 312,
+    "address": {
+      "city": "Los Angeles",
+      "area": "Venice"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Venice, Los Angeles. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 312 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-surry-hills-apartment-68",
+    "title": "Apartment in Surry Hills, Sydney",
+    "price": 1000295,
+    "currency": "AUD",
+    "type": "apartment",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 160,
+    "address": {
+      "city": "Sydney",
+      "area": "Surry Hills"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Surry Hills, Sydney. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 160 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-bondi-apartment-69",
+    "title": "Apartment in Bondi, Sydney",
+    "price": 1000239,
+    "currency": "AUD",
+    "type": "apartment",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 186,
+    "address": {
+      "city": "Sydney",
+      "area": "Bondi"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Bondi, Sydney. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 186 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "madrid-chamber-villa-70",
+    "title": "Villa in Chamberí, Madrid",
+    "price": 825626,
     "currency": "EUR",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 318,
+    "address": {
+      "city": "Madrid",
+      "area": "Chamberí"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Chamberí, Madrid. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 318 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-be-ikta-apartment-71",
+    "title": "Apartment in Beşiktaş, Istanbul",
+    "price": 8500311,
+    "currency": "TRY",
+    "type": "apartment",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 157,
+    "address": {
+      "city": "Istanbul",
+      "area": "Beşiktaş"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Beşiktaş, Istanbul. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 157 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-surry-hills-house-72",
+    "title": "House in Surry Hills, Sydney",
+    "price": 1150182,
+    "currency": "AUD",
+    "type": "house",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 86,
+    "address": {
+      "city": "Sydney",
+      "area": "Surry Hills"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Surry Hills, Sydney. Bright, airy layout with 2 bedrooms, 1 bathroom, and 86 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "singapore-river-valley-studio-73",
+    "title": "Studio in River Valley, Singapore",
+    "price": 960329,
+    "currency": "SGD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 166,
+    "address": {
+      "city": "Singapore",
+      "area": "River Valley"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in River Valley, Singapore. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 166 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-be-ikta-villa-74",
+    "title": "Villa in Beşiktaş, Istanbul",
+    "price": 12750443,
+    "currency": "TRY",
+    "type": "villa",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 187,
+    "address": {
+      "city": "Istanbul",
+      "area": "Beşiktaş"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Beşiktaş, Istanbul. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 187 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "los-angeles-santa-monica-house-75",
+    "title": "House in Santa Monica, Los Angeles",
+    "price": 1092604,
+    "currency": "USD",
+    "type": "house",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 64,
+    "address": {
+      "city": "Los Angeles",
+      "area": "Santa Monica"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Santa Monica, Los Angeles. Bright, airy layout with 2 bedrooms, 1 bathroom, and 64 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "miami-south-beach-apartment-76",
+    "title": "Apartment in South Beach, Miami",
+    "price": 700144,
+    "currency": "USD",
+    "type": "apartment",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 71,
+    "address": {
+      "city": "Miami",
+      "area": "South Beach"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in South Beach, Miami. Bright, airy layout with 2 bedrooms, 1 bathroom, and 71 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "los-angeles-hollywood-apartment-77",
+    "title": "Apartment in Hollywood, Los Angeles",
+    "price": 950330,
+    "currency": "USD",
+    "type": "apartment",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 162,
+    "address": {
+      "city": "Los Angeles",
+      "area": "Hollywood"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Hollywood, Los Angeles. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 162 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "toronto-downtown-house-78",
+    "title": "House in Downtown, Toronto",
+    "price": 1035062,
+    "currency": "CAD",
     "type": "house",
     "beds": 1,
     "baths": 1,
-    "areaM2": 51,
+    "areaM2": 48,
+    "address": {
+      "city": "Toronto",
+      "area": "Downtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Downtown, Toronto. Bright, airy layout with 1 bedroom, 1 bathroom, and 48 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "san-francisco-soma-villa-79",
+    "title": "Villa in SoMa, San Francisco",
+    "price": 1576025,
+    "currency": "USD",
+    "type": "villa",
+    "beds": 6,
+    "baths": 4,
+    "areaM2": 394,
+    "address": {
+      "city": "San Francisco",
+      "area": "SoMa"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in SoMa, San Francisco. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 394 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "london-camden-villa-80",
+    "title": "Villa in Camden, London",
+    "price": 1200078,
+    "currency": "GBP",
+    "type": "villa",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 58,
+    "address": {
+      "city": "London",
+      "area": "Camden"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Camden, London. Bright, airy layout with 1 bedroom, 1 bathroom, and 58 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "miami-brickell-studio-81",
+    "title": "Studio in Brickell, Miami",
+    "price": 560164,
+    "currency": "USD",
+    "type": "studio",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 82,
+    "address": {
+      "city": "Miami",
+      "area": "Brickell"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Brickell, Miami. Bright, airy layout with 1 bedroom, 1 bathroom, and 82 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "los-angeles-santa-monica-house-82",
+    "title": "House in Santa Monica, Los Angeles",
+    "price": 1092607,
+    "currency": "USD",
+    "type": "house",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 91,
+    "address": {
+      "city": "Los Angeles",
+      "area": "Santa Monica"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Santa Monica, Los Angeles. Bright, airy layout with 2 bedrooms, 1 bathroom, and 91 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "new-york-upper-east-side-studio-83",
+    "title": "Studio in Upper East Side, New York",
+    "price": 680162,
+    "currency": "USD",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 121,
+    "address": {
+      "city": "New York",
+      "area": "Upper East Side"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Upper East Side, New York. Bright, airy layout with 2 bedrooms, 1 bathroom, and 121 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "berlin-kreuzberg-studio-84",
+    "title": "Studio in Kreuzberg, Berlin",
+    "price": 480195,
+    "currency": "EUR",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 147,
     "address": {
       "city": "Berlin",
       "area": "Kreuzberg"
     },
     "images": [
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Kreuzberg, Berlin. Bright, airy layout with 1 bedroom, 1 bathroom, and 51 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern studio located in Kreuzberg, Berlin. Bright, airy layout with 2 bedrooms, 1 bathroom, and 147 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "toronto-yorkville-apartment-84",
-    "title": "Apartment in Yorkville, Toronto",
-    "price": 900184,
-    "currency": "CAD",
-    "type": "apartment",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 101,
-    "address": {
-      "city": "Toronto",
-      "area": "Yorkville"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Yorkville, Toronto. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 101 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "paris-le-marais-villa-85",
-    "title": "Villa in Le Marais, Paris",
-    "price": 1125097,
-    "currency": "EUR",
-    "type": "villa",
+    "id": "san-francisco-noe-valley-house-85",
+    "title": "House in Noe Valley, San Francisco",
+    "price": 1207567,
+    "currency": "USD",
+    "type": "house",
     "beds": 1,
     "baths": 1,
-    "areaM2": 50,
-    "address": {
-      "city": "Paris",
-      "area": "Le Marais"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Le Marais, Paris. Bright, airy layout with 1 bedroom, 1 bathroom, and 50 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-hollywood-apartment-86",
-    "title": "Apartment in Hollywood, Los Angeles",
-    "price": 950126,
-    "currency": "USD",
-    "type": "apartment",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 56,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Hollywood"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Hollywood, Los Angeles. Bright, airy layout with 1 bedroom, 1 bathroom, and 56 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "san-francisco-noe-valley-villa-87",
-    "title": "Villa in Noe Valley, San Francisco",
-    "price": 1575370,
-    "currency": "USD",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 233,
+    "areaM2": 53,
     "address": {
       "city": "San Francisco",
       "area": "Noe Valley"
     },
     "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Noe Valley, San Francisco. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 233 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-de-pijp-studio-88",
-    "title": "Studio in De Pijp, Amsterdam",
-    "price": 544073,
-    "currency": "EUR",
-    "type": "studio",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 37,
-    "address": {
-      "city": "Amsterdam",
-      "area": "De Pijp"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in De Pijp, Amsterdam. Bright, airy layout with 1 bedroom, 1 bathroom, and 37 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-retiro-house-89",
-    "title": "House in Retiro, Madrid",
-    "price": 632724,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 112,
-    "address": {
-      "city": "Madrid",
-      "area": "Retiro"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in Retiro, Madrid. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 112 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "tokyo-shibuya-villa-90",
-    "title": "Villa in Shibuya, Tokyo",
-    "price": 180000755,
-    "currency": "JPY",
-    "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 299,
-    "address": {
-      "city": "Tokyo",
-      "area": "Shibuya"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Shibuya, Tokyo. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 299 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "rome-trastevere-apartment-91",
-    "title": "Apartment in Trastevere, Rome",
-    "price": 520139,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 108,
-    "address": {
-      "city": "Rome",
-      "area": "Trastevere"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern apartment located in Trastevere, Rome. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 108 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Noe Valley, San Francisco. Bright, airy layout with 1 bedroom, 1 bathroom, and 53 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "san-francisco-mission-villa-92",
-    "title": "Villa in Mission, San Francisco",
-    "price": 1575633,
-    "currency": "USD",
+    "id": "madrid-salamanca-villa-86",
+    "title": "Villa in Salamanca, Madrid",
+    "price": 825518,
+    "currency": "EUR",
     "type": "villa",
-    "beds": 6,
-    "baths": 4,
-    "areaM2": 287,
-    "address": {
-      "city": "San Francisco",
-      "area": "Mission"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Mission, San Francisco. Bright, airy layout with 6 bedrooms, 4 bathrooms, and 287 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "london-islington-villa-93",
-    "title": "Villa in Islington, London",
-    "price": 1200124,
-    "currency": "GBP",
-    "type": "villa",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 55,
-    "address": {
-      "city": "London",
-      "area": "Islington"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern villa located in Islington, London. Bright, airy layout with 1 bedroom, 1 bathroom, and 55 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "berlin-mitte-studio-94",
-    "title": "Studio in Mitte, Berlin",
-    "price": 480334,
-    "currency": "EUR",
-    "type": "studio",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 190,
-    "address": {
-      "city": "Berlin",
-      "area": "Mitte"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern studio located in Mitte, Berlin. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 190 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "amsterdam-de-pijp-house-95",
-    "title": "House in De Pijp, Amsterdam",
-    "price": 782212,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 112,
-    "address": {
-      "city": "Amsterdam",
-      "area": "De Pijp"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern house located in De Pijp, Amsterdam. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 112 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-retiro-apartment-96",
-    "title": "Apartment in Retiro, Madrid",
-    "price": 550293,
-    "currency": "EUR",
-    "type": "apartment",
-    "beds": 4,
+    "beds": 5,
     "baths": 3,
-    "areaM2": 146,
-    "address": {
-      "city": "Madrid",
-      "area": "Retiro"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Retiro, Madrid. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 146 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "tokyo-shibuya-apartment-97",
-    "title": "Apartment in Shibuya, Tokyo",
-    "price": 120000245,
-    "currency": "JPY",
-    "type": "apartment",
-    "beds": 3,
-    "baths": 2,
-    "areaM2": 119,
-    "address": {
-      "city": "Tokyo",
-      "area": "Shibuya"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Shibuya, Tokyo. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 119 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "madrid-salamanca-house-98",
-    "title": "House in Salamanca, Madrid",
-    "price": 632597,
-    "currency": "EUR",
-    "type": "house",
-    "beds": 1,
-    "baths": 1,
-    "areaM2": 57,
+    "areaM2": 211,
     "address": {
       "city": "Madrid",
       "area": "Salamanca"
     },
     "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Salamanca, Madrid. Bright, airy layout with 1 bedroom, 1 bathroom, and 57 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern villa located in Salamanca, Madrid. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 211 m² of living space. Close to shops, transit, and parks."
   },
   {
-    "id": "los-angeles-beverly-hills-apartment-99",
-    "title": "Apartment in Beverly Hills, Los Angeles",
-    "price": 950347,
-    "currency": "USD",
-    "type": "apartment",
-    "beds": 4,
-    "baths": 3,
-    "areaM2": 159,
-    "address": {
-      "city": "Los Angeles",
-      "area": "Beverly Hills"
-    },
-    "images": [
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format"
-    ],
-    "description": "Modern apartment located in Beverly Hills, Los Angeles. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 159 m² of living space. Close to shops, transit, and parks."
-  },
-  {
-    "id": "los-angeles-santa-monica-house-100",
-    "title": "House in Santa Monica, Los Angeles",
-    "price": 1092832,
+    "id": "los-angeles-venice-house-87",
+    "title": "House in Venice, Los Angeles",
+    "price": 1092862,
     "currency": "USD",
     "type": "house",
     "beds": 5,
     "baths": 3,
-    "areaM2": 185,
+    "areaM2": 189,
+    "address": {
+      "city": "Los Angeles",
+      "area": "Venice"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Venice, Los Angeles. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 189 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-be-ikta-apartment-88",
+    "title": "Apartment in Beşiktaş, Istanbul",
+    "price": 8500210,
+    "currency": "TRY",
+    "type": "apartment",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 110,
+    "address": {
+      "city": "Istanbul",
+      "area": "Beşiktaş"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Beşiktaş, Istanbul. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 110 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "tokyo-meguro-apartment-89",
+    "title": "Apartment in Meguro, Tokyo",
+    "price": 120000121,
+    "currency": "JPY",
+    "type": "apartment",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 59,
+    "address": {
+      "city": "Tokyo",
+      "area": "Meguro"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Meguro, Tokyo. Bright, airy layout with 1 bedroom, 1 bathroom, and 59 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "miami-south-beach-house-90",
+    "title": "House in South Beach, Miami",
+    "price": 805059,
+    "currency": "USD",
+    "type": "house",
+    "beds": 1,
+    "baths": 1,
+    "areaM2": 53,
+    "address": {
+      "city": "Miami",
+      "area": "South Beach"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in South Beach, Miami. Bright, airy layout with 1 bedroom, 1 bathroom, and 53 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "madrid-salamanca-house-91",
+    "title": "House in Salamanca, Madrid",
+    "price": 632726,
+    "currency": "EUR",
+    "type": "house",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 199,
+    "address": {
+      "city": "Madrid",
+      "area": "Salamanca"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1467987506553-8f3916508521?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Salamanca, Madrid. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 199 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-newtown-studio-92",
+    "title": "Studio in Newtown, Sydney",
+    "price": 800254,
+    "currency": "AUD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 194,
+    "address": {
+      "city": "Sydney",
+      "area": "Newtown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Newtown, Sydney. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 194 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "istanbul-kad-k-y-apartment-93",
+    "title": "Apartment in Kadıköy, Istanbul",
+    "price": 8500231,
+    "currency": "TRY",
+    "type": "apartment",
+    "beds": 4,
+    "baths": 3,
+    "areaM2": 149,
+    "address": {
+      "city": "Istanbul",
+      "area": "Kadıköy"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern apartment located in Kadıköy, Istanbul. Bright, airy layout with 4 bedrooms, 3 bathrooms, and 149 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "tokyo-shibuya-villa-94",
+    "title": "Villa in Shibuya, Tokyo",
+    "price": 180000185,
+    "currency": "JPY",
+    "type": "villa",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 110,
+    "address": {
+      "city": "Tokyo",
+      "area": "Shibuya"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Shibuya, Tokyo. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 110 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "madrid-retiro-studio-95",
+    "title": "Studio in Retiro, Madrid",
+    "price": 440185,
+    "currency": "EUR",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 97,
+    "address": {
+      "city": "Madrid",
+      "area": "Retiro"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Retiro, Madrid. Bright, airy layout with 2 bedrooms, 1 bathroom, and 97 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "los-angeles-santa-monica-studio-96",
+    "title": "Studio in Santa Monica, Los Angeles",
+    "price": 760266,
+    "currency": "USD",
+    "type": "studio",
+    "beds": 2,
+    "baths": 1,
+    "areaM2": 124,
     "address": {
       "city": "Los Angeles",
       "area": "Santa Monica"
     },
     "images": [
-      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1600&h=1000&fit=crop&auto=format",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Santa Monica, Los Angeles. Bright, airy layout with 2 bedrooms, 1 bathroom, and 124 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "toronto-liberty-village-house-97",
+    "title": "House in Liberty Village, Toronto",
+    "price": 1035261,
+    "currency": "CAD",
+    "type": "house",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 129,
+    "address": {
+      "city": "Toronto",
+      "area": "Liberty Village"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern house located in Liberty Village, Toronto. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 129 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "paris-le-marais-villa-98",
+    "title": "Villa in Le Marais, Paris",
+    "price": 1125468,
+    "currency": "EUR",
+    "type": "villa",
+    "beds": 5,
+    "baths": 3,
+    "areaM2": 182,
+    "address": {
+      "city": "Paris",
+      "area": "Le Marais"
+    },
+    "images": [
       "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern villa located in Le Marais, Paris. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 182 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "madrid-retiro-house-99",
+    "title": "House in Retiro, Madrid",
+    "price": 632633,
+    "currency": "EUR",
+    "type": "house",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 117,
+    "address": {
+      "city": "Madrid",
+      "area": "Retiro"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1502003148287-a82ef80a6abc?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1544457070-55de6b3ac5cb?q=80&w=1600&h=1000&fit=crop&auto=format",
       "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&h=1000&fit=crop&auto=format"
     ],
-    "description": "Modern house located in Santa Monica, Los Angeles. Bright, airy layout with 5 bedrooms, 3 bathrooms, and 185 m² of living space. Close to shops, transit, and parks."
+    "description": "Modern house located in Retiro, Madrid. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 117 m² of living space. Close to shops, transit, and parks."
+  },
+  {
+    "id": "sydney-surry-hills-studio-100",
+    "title": "Studio in Surry Hills, Sydney",
+    "price": 800211,
+    "currency": "AUD",
+    "type": "studio",
+    "beds": 3,
+    "baths": 2,
+    "areaM2": 169,
+    "address": {
+      "city": "Sydney",
+      "area": "Surry Hills"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1521783988139-893cebf1fef2?q=80&w=1600&h=1000&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1600&h=1000&fit=crop&auto=format"
+    ],
+    "description": "Modern studio located in Surry Hills, Sydney. Bright, airy layout with 3 bedrooms, 2 bathrooms, and 169 m² of living space. Close to shops, transit, and parks."
   }
 ]
