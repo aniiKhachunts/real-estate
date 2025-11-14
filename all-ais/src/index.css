@@ -1,0 +1,11 @@
+/* src/index.css */
+@import "tailwindcss";
+
+/* Optional: a basic global reset feel */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-neutral-950 text-neutral-50 antialiased;
+}

@@ -1,0 +1,13 @@
+/* src/styles.css */
+@import "tailwindcss";
+
+/* You can start adding your custom base styles here if needed */
+/* Example: custom font stack similar to themedia.moscow */
+:root {
+    color-scheme: dark;
+}
+
+/* Example basic body styling (we'll refine later) */
+body {
+    @apply bg-neutral-950 text-neutral-50 antialiased;
+}
